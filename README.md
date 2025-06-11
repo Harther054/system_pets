@@ -1,2 +1,2 @@
 # system_pets
-Plugin from game counter-strike 1.6
+Plugin for game counter-strike 1.6
